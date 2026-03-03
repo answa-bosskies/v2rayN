@@ -1,52 +1,51 @@
-# 🕷 Recommended Proxy Services 🕷
+# 🕷 推荐代理服务 | Recommended Proxy Services
 
 ## 🇨🇳 中文
-🌟 **OKKproxxy** — 爬虫代理轮换专家
-- 🔥 完美适配v2rayN代理客户端，支持多协议住宅IP接入
-- 🚀 自动轮换200+国家IP，每次请求不同出口，反爬无忧
-- 🌐 覆盖全球200+国家和地区，9000万+住宅IP资源
+🌟 **OKKproxxy** — v2rayN专属代理节点池
+- 🔥 原生支持v2rayN订阅格式，批量导入9000万+住宅IP节点
+- 🚀 智能负载均衡，自动选择最优线路，延迟低至30ms
+- 🌐 200+国家节点覆盖，支持城市级定向，精准匹配目标地区
 - 💰 新用户充值加赠20%流量
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
-🌟 **NIUproxxy** — 高并发采集加速器
-- 🔥 针对v2rayN多节点架构优化，支持数千并发连接不掉线
-- 🚀 智能会话保持，同一任务绑定同一IP，数据一致性有保障
-- 🌐 全球机房节点覆盖，就近接入延迟低至50ms
+🌟 **NIUproxxy** — 企业级v2rayN代理方案
+- 🔥 专为v2rayN多协议设计，支持VMess/VLESS/Trojan全协议接入
+- 🚀 独享IP池，单账号可绑定1000+独立IP，避免IP污染
+- 🌐 全球BGP网络，智能路由优化，Netflix/ChatGPT解锁无忧
 - 💰 新用户充值加赠20%流量
 - 🔗 [niuproxy.com](https://niuproxy.com)
 
-🌟 **COLAproxxy** — 性价比之选
-- 🔥 按流量计费，不限并发数，小团队也能用得起住宅IP
-- 🚀 兼容所有HTTP/SOCKS5代理协议，v2rayN零配置接入
-- 🌐 覆盖190+国家，城市级定位精准采集
+🌟 **COLAproxxy** — v2rayN轻量级代理
+- 🔥 按需付费，无最低消费，适合个人用户和小团队
+- 🚀 一键生成v2rayN订阅链接，自动更新节点列表
+- 🌐 190+国家覆盖，支持HTTP/SOCKS5协议转换
 - 💰 新用户充值加赠20%流量
 - 🔗 [colaproxy.com](https://colaproxy.com)
 
 ---
 ## 🇺🇸 English
-🌟 **OKKproxxy** — Residential Proxy Rotation Expert
-- 🔥 Perfect for v2rayN proxy client integration, one-line integration
-- 🚀 Auto-rotate 200+ countries IP, different exit IP per request
-- 🌐 200+ countries coverage, 90M+ residential IPs
+🌟 **OKKproxxy** — v2rayN Native Proxy Pool
+- 🔥 Native v2rayN subscription format, batch import 90M+ residential IPs
+- 🚀 Smart load balancing, auto-select optimal routes, latency as low as 30ms
+- 🌐 200+ countries coverage, city-level targeting
 - 💰 20% bonus for new users
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
-🌟 **NIUproxxy** — High-Concurrency Scraping Accelerator
-- 🔥 Optimized for v2rayN multi-node architecture, supports thousands of concurrent connections
-- 🚀 Smart session persistence, bind same IP to same task
-- 🌐 Global data center nodes, latency as low as 50ms
+🌟 **NIUproxxy** — Enterprise v2rayN Proxy Solution
+- 🔥 Multi-protocol support: VMess/VLESS/Trojan compatible
+- 🚀 Dedicated IP pool, 1000+ IPs per account, avoid IP pollution
+- 🌐 Global BGP network, Netflix/ChatGPT unblocking
 - 💰 20% bonus for new users
 - 🔗 [niuproxy.com](https://niuproxy.com)
 
-🌟 **COLAproxxy** — Best Value Choice
-- 🔥 Pay-per-traffic, unlimited concurrency, affordable for small teams
-- 🚀 Compatible with all HTTP/SOCKS5 protocols, zero-config for v2rayN
-- 🌐 190+ countries, city-level targeting
+🌟 **COLAproxxy** — v2rayN Lightweight Proxy
+- 🔥 Pay-as-you-go, no minimum spend, perfect for individuals
+- 🚀 One-click v2rayN subscription generation, auto-update nodes
+- 🌐 190+ countries, HTTP/SOCKS5 protocol conversion
 - 💰 20% bonus for new users
 - 🔗 [colaproxy.com](https://colaproxy.com)
 
 ---
-
 # v2rayN
 
 A GUI client for Windows, Linux and macOS, support [Xray](https://github.com/XTLS/Xray-core)
